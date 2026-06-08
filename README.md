@@ -190,12 +190,3 @@ Through this project, I gained practical experience with:
 - Training Visualization Dashboard
 
 ---
-
-## 👨‍💻 Author
-
-**Syed Shavez Jafar**
-
-Engineering Student | AI & Machine Learning Enthusiast
-
-- LinkedIn: www.linkedin.com/in/syed-shavez-jafar-a3b670327
-- GitHub: https://github.com/syedshavezjafar
